@@ -39,6 +39,7 @@
         "node-youtube-music": "^0.8.3",
         "performance-now": "^2.1.0",
         "pino": "^8.14.1",
+        "pm2": "^5.4.3",
         "qrcode": "^1.5.3",
         "qrcode-reader": "^1.0.4",
         "qrcode-terminal": "^0.12.0",
